@@ -7,6 +7,6 @@ demo description!
 
 Watch tutorial on Youtube.
 
-## Subheader 2
+## Local Development
 
-Testing out autosave feature.
+1. Open index.html in your browswer.
